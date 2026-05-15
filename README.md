@@ -1,6 +1,6 @@
-# ShopHub
+# Project Description
 
-This is a ShopHub online store repository.
+E-Commerce platform with product categories, attributes and multi-vendor support
 
 ## Installation
 
